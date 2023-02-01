@@ -26,4 +26,7 @@ if (VALUE_IS_STRING=1, CellPutS(SVALUE,'plan_BudgetPlan',vVersion,plan_business_
 #****Begin: Generated Statements***
 CUBESETLOGCHANGES('plan_BudgetPlan', OldCubeLogChanges);
 #****End: Generated Statements****
+
+
+# тестовый комментарий для гит
 #endregion
