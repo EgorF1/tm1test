@@ -1,0 +1,14 @@
+{
+  "Version": "1.0",
+  "Name": "My Model",
+  "Deployment": {},
+  "PrePull": [],
+  "PostPull": [],
+  "PrePush": [],
+  "PostPush": [],
+
+  "Ignore": [
+        "Processes",
+        "!Processes('mover')"
+    ]
+}
