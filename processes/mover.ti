@@ -36,5 +36,5 @@ CUBESETLOGCHANGES('plan_BudgetPlan', OldCubeLogChanges);
 #3
 #11адлм31
 
-#User - dataadmin
+#User - BudgetAdmin
 #endregion
