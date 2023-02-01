@@ -7,15 +7,15 @@
 	"VariablesUIData":
 	[
 		"IgnoredInputVarName=plan_version\fVarType=32\fColType=1165\f",
-		"VarType=32\fColType=825\fVarDimension=plan_business_unit\fVarDimAction=AsIs\fVarElemType=Numeric\fVarDimElemSortType=ByInput\fVarDimElemSortSense=ASCENDING\f",
-		"VarType=32\fColType=825\fVarDimension=plan_department\fVarDimAction=AsIs\fVarElemType=Numeric\fVarDimElemSortType=ByInput\fVarDimElemSortSense=ASCENDING\f",
-		"VarType=32\fColType=825\fVarDimension=plan_chart_of_accounts\fVarDimAction=AsIs\fVarElemType=Numeric\fVarDimElemSortType=ByInput\fVarDimElemSortSense=ASCENDING\f",
-		"VarType=32\fColType=825\fVarDimension=plan_exchange_rates\fVarDimAction=AsIs\fVarElemType=Numeric\fVarDimElemSortType=ByInput\fVarDimElemSortSense=ASCENDING\f",
-		"VarType=32\fColType=825\fVarDimension=plan_source\fVarDimAction=AsIs\fVarElemType=Numeric\fVarDimElemSortType=ByInput\fVarDimElemSortSense=ASCENDING\f",
+		"VarType=32\fColType=825\fVarDimension=plan_business_unit\fVarDimAction=Как есть\fVarElemType=Числовой\fVarDimElemSortType=BYINPUT\fVarDimElemSortSense=ASCENDING\f",
+		"VarType=32\fColType=825\fVarDimension=plan_department\fVarDimAction=Как есть\fVarElemType=Числовой\fVarDimElemSortType=BYINPUT\fVarDimElemSortSense=ASCENDING\f",
+		"VarType=32\fColType=825\fVarDimension=plan_chart_of_accounts\fVarDimAction=Как есть\fVarElemType=Числовой\fVarDimElemSortType=BYINPUT\fVarDimElemSortSense=ASCENDING\f",
+		"VarType=32\fColType=825\fVarDimension=plan_exchange_rates\fVarDimAction=Как есть\fVarElemType=Числовой\fVarDimElemSortType=BYINPUT\fVarDimElemSortSense=ASCENDING\f",
+		"VarType=32\fColType=825\fVarDimension=plan_source\fVarDimAction=Как есть\fVarElemType=Числовой\fVarDimElemSortType=BYINPUT\fVarDimElemSortSense=ASCENDING\f",
 		"VarType=32\fColType=827\f",
 		"VarType=33\fColType=826\f",
-		"VarName=vMonth\fVarType=32\fColType=825\fVarFormula=vMonth=subst(plan_time, 1, 7) | '3';:\fVarFormulaDestination=DATA\fVarDimension=plan_time\fVarDimAction=AsIs\fVarElemType=Numeric\fVarDimElemSortType=ByInput\fVarDimElemSortSense=ASCENDING\f",
-		"VarName=vVersion\fVarType=32\fColType=825\fVarFormula=vVersion='FY 2003 Budget';:\fVarFormulaDestination=DATA\fVarDimension=plan_version\fVarDimAction=AsIs\fVarElemType=Numeric\fVarDimElemSortType=ByInput\fVarDimElemSortSense=ASCENDING\f"
+		"VarName=vMonth\fVarType=32\fColType=825\fVarFormula=vMonth=subst(plan_time, 1, 7) | '3';:\fVarFormulaDestination=DATA\fVarDimension=plan_time\fVarDimAction=Как есть\fVarElemType=Числовой\fVarDimElemSortType=BYINPUT\fVarDimElemSortSense=ASCENDING\f",
+		"VarName=vVersion\fVarType=32\fColType=825\fVarFormula=vVersion='FY 2003 Budget';:\fVarFormulaDestination=DATA\fVarDimension=plan_version\fVarDimAction=Как есть\fVarElemType=Числовой\fVarDimElemSortType=BYINPUT\fVarDimElemSortSense=ASCENDING\f"
 	],
 	"DataSource":
 	{
