@@ -5,10 +5,6 @@
   "PrePull": [],
   "PostPull": [],
   "PrePush": [],
-  "PostPush": [],
+  "PostPush": []
 
-  "Ignore": [
-        "Processes",
-        "!Processes('mover')"
-    ]
 }
