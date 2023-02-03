@@ -5,10 +5,6 @@
   "PrePull": [],
   "PostPull": [],
   "PrePush": [],
-  "PostPush": [],
-        "Ignore": [
-        "Processes", 
-        "!Processes('plan_set_language')"
-      ]
+  "PostPush": []
 
 }
