@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"All Business Units",
-	"Expression":"{ HIERARCHIZE( {TM1SUBSETALL( [plan_business_unit] )} ) }"
-}

@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Net_Operating_Income",
-	"Expression":"{Descendants ([plan_chart_of_accounts].[Net Operating Income])}\r"
-}
